@@ -1,0 +1,3 @@
+[submodule "submodules/mmma"]
+	path = submodules/mmma
+	url = https://github.com/jdchart/mmma.git
